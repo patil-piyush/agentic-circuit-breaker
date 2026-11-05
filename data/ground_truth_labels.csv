@@ -1,0 +1,21 @@
+query_id,query_snippet,label,expected_baseline_status,expected_protected_status
+1,What is the exact CO2 reduction per country per year...,thrashing,crashed,breaker_triggered
+2,Exact solar panel efficiency per manufacturer per quarter...,thrashing,crashed,breaker_triggered
+3,Precise GDP impact coefficients per renewable energy subsidy...,thrashing,crashed,breaker_triggered
+4,Exact kWh generated per solar farm per day in every country...,thrashing,crashed,breaker_triggered
+5,Monthly wind turbine blade failure rates per manufacturer...,thrashing,crashed,breaker_triggered
+6,Atmospheric CO2 every 6 hours at every NOAA station 1980-2025...,thrashing,crashed,breaker_triggered
+7,Proprietary chemical formulas for PV cell coating compounds...,thrashing,crashed,breaker_triggered
+8,Carbon credit price per tonne per transaction globally 2015-2025...,thrashing,crashed,breaker_triggered
+9,Hydropower turbine RPM at every dam globally in 2024...,thrashing,crashed,breaker_triggered
+10,Methane emission readings from every oil and gas well 2010-2025...,thrashing,crashed,breaker_triggered
+11,What is solar energy and how do photovoltaic panels work?,normal,completed,completed
+12,What are the main causes of climate change?,normal,completed,completed
+13,How does the circuit breaker pattern work in distributed systems?,normal,completed,completed
+14,What is the difference between onshore and offshore wind energy?,normal,completed,completed
+15,What is retrieval-augmented generation (RAG) and why is it useful?,normal,completed,completed
+16,How does greenhouse gas trapping cause global warming?,normal,completed,completed
+17,What is the role of hydropower in renewable energy generation?,normal,completed,completed
+18,How do multi-agent systems coordinate tasks in LangGraph pipelines?,normal,completed,completed
+19,What are the planets in our solar system and their key characteristics?,normal,completed,completed
+20,What is semantic thrashing in LLM-based agents and how can it be detected?,normal,completed,completed

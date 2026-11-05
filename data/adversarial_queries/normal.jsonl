@@ -3,3 +3,8 @@
 {"query": "How does the circuit breaker pattern work in distributed systems?", "label": "normal", "expected_status": "completed"}
 {"query": "What is the difference between onshore and offshore wind energy?", "label": "normal", "expected_status": "completed"}
 {"query": "What is retrieval-augmented generation (RAG) and why is it useful?", "label": "normal", "expected_status": "completed"}
+{"query": "How does greenhouse gas trapping cause global warming?", "label": "normal", "expected_status": "completed"}
+{"query": "What is the role of hydropower in renewable energy generation?", "label": "normal", "expected_status": "completed"}
+{"query": "How do multi-agent systems coordinate tasks in LangGraph pipelines?", "label": "normal", "expected_status": "completed"}
+{"query": "What are the planets in our solar system and their key characteristics?", "label": "normal", "expected_status": "completed"}
+{"query": "What is semantic thrashing in LLM-based agents and how can it be detected?", "label": "normal", "expected_status": "completed"}
